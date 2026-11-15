@@ -6,7 +6,7 @@
 
 FLIXPLAY is a powerful, open-source streaming platform that brings movies, TV series, and anime to your fingertips. Built with Vanilla JS, Firebase, and the TMDB API.
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](#)
+[![Release](https://img.shields.io/badge/Release-v1.0.1-blue.svg)](#)
 [![Size](https://img.shields.io/badge/Size-2.4%20MB-purple.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web-green.svg)](#)
 [![Data](https://img.shields.io/badge/Data-TMDB%20API-01b4e4.svg)](#)
@@ -22,7 +22,7 @@ FLIXPLAY is a powerful, open-source streaming platform that brings movies, TV se
 
 <br>
 
-## 🚀 What's New in v1.0.0
+## 🚀 What's New in v1.0.1
 
 | Area | What changed |
 | :--- | :--- |
