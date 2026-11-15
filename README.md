@@ -105,7 +105,7 @@ Contributions are what make the open-source community such an amazing place to l
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- GitHub: [@rpgamerzn](https://github.com/rpgamerzn)
 
 ---
 
