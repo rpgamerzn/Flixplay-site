@@ -78,7 +78,7 @@ Get FLIXPLAY running on your device in seconds.
 
 You don't need to install anything to use the web version. Simply visit the live link below:
 
-👉 **[Launch Flixplay Web App](https://your-netlify-link-here.netlify.app)**
+👉 **[Launch Flixplay Web App](https://flix-play.netlify.app/)**
 
 ---
 
